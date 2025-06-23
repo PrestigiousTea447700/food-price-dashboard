@@ -5,7 +5,7 @@ import pandas as pd
 import plotly.express as px
 
 # %%
-df = pd.read_csv('D:\\datasets\\food_price_indices_data_jun25_modified.csv')
+df = pd.read_csv('food_price_indices_data2.csv')
 
 # %%
 # sidebar filer-options
