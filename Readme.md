@@ -49,7 +49,9 @@ both economic and social stability\*\*.
 \`\`\`bash git clone
 https://github.com/YOUR_USERNAME/food-price-dashboard.git cd
 food-price-dashboard
-#2. Install dependencies
+\#2. Install dependencies
 pip install -r requirements.txt
-#3. Launch the dashboard
+\#3. Launch the dashboard
 streamlit run app.py
+\# 🌐 **Live App**: [Click to open](https://food-price-dashboard-bcvracmzbgzpskg2qeeneo.streamlit.app/)
+
